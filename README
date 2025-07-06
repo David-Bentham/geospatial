@@ -1,1 +1,9 @@
-A fun immersive project to learn exploratory data analysis, python, and some rudimentary machine learning. 
+# Intro to Exploratory Data Analysis
+
+This respository contains a short tutorial-style exploration of data analysis techniques using pandas and matplotlib. It is taken from a historic VAST challenge (details here: https://vast-challenge.github.io/2024/about.html). 
+
+It includes examples of:
+
+- Data cleaning and transformation
+- Summary statistics and visualisation
+- Basic plotting (histograms, scatter, time series)
